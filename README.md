@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# React Frontend App for "Vidly"
+
+The result of this course project is a real video rental app.
+
+## Topics covered
+
+- Modern JavaScript features
+- Building reusable components
+- Building tables and lists with pagination, sorting and searching
+- Building forms with validation
+- Implementing routing with React Router
+- Calling HTTP services with Axios
+- Implementing authentication and authorization
+- Handling and logging errors effectively
+- All about Function Components and Hooks
+- Sharing data using React Context
+- Deploying React apps to Heroku
+- Writing clean, maintainable code
+- Shortcuts to write more code in less time
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
