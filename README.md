@@ -1,6 +1,6 @@
 # React Frontend App for "vidly"
 
-The result of this course project is a real video rental app.
+The result of this course project is the frontend for a real video rental app.
 
 ## Topics covered
 
